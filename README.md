@@ -9,6 +9,8 @@
 Let me introduce myself
 </h2>
 My name's Aleksandr. I'am a novice Java developer.
+<br>
+I am looking for like-minded people for joint projects, and I will also be glad to become part of the team.
 </div>
 <br>
 

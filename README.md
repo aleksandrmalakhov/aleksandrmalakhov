@@ -37,7 +37,7 @@ Languages and Tools
     <a href="https://wa.me/qr/FKOVYVKJVCWAK1">
       <img src="https://cdn.icon-icons.com/icons2/1195/PNG/512/1490889687-whats-app_82529.png" title="WhatsApp" alt="WhatsApp" width="43" height="43"/>
     </a>&nbsp;
-    <a href="java.aleksandr@gmail.com">
+    <a href="mailto:java.aleksandr@gmail.com">
       <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" title="Gmail" alt="Gmail" width="40" height="40"/>
     </a>&nbsp;
     <a href="https://docs.google.com/document/d/1rRwM59AIrV4GWck2OraXKvhQgsNepBf3VRKG1PwUe4Q/edit?usp=sharing">

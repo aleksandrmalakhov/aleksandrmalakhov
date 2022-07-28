@@ -12,11 +12,10 @@ My name's Aleksandr. I'am a novice Java developer.
 <br>
 I am looking for like-minded people for joint projects, and I will also be glad to become part of the team.
 </div>
-<br>
+<br><br>
 
 <div align="left">
 <h2>
-<img src="https://cdn.icon-icons.com/icons2/80/PNG/256/administrative_tools_15497.png" width="50" height="50"/>
 Languages and Tools
 </h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -27,11 +26,10 @@ Languages and Tools
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis"  alt="Redis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="45" height="45"/>
 </div>
-<br>
+<br><br>
 
 <div align="left">
   <h2>
-    <img src="https://cdn-icons-png.flaticon.com/512/2343/2343694.png" width="45 height="45"/>
     Contact me
   </h2>
   <p>
@@ -49,7 +47,7 @@ Languages and Tools
     </a>
   </p> 
 </div>
-<br>
+<br><br>
 
 <div align="center">
 <h2>

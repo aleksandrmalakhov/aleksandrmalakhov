@@ -5,7 +5,7 @@
 
 <div align="left">
 <h2>
-<img src="https://cdn-icons-png.flaticon.com/512/2922/2922510.png" title="Avatar" alt="Avatar" width="50" height="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2922/2922510.png" width="50" height="50"/>
 Let me introduce myself
 </h2>
 My name's Aleksandr. I'am a novice Java developer.
@@ -16,7 +16,7 @@ I am looking for like-minded people for joint projects, and I will also be glad 
 
 <div align="left">
 <h2>
-<img src="https://cdn.icon-icons.com/icons2/80/PNG/256/administrative_tools_15497.png" title="Tools" alt="Tools" width="50" height="50"/>
+<img src="https://cdn.icon-icons.com/icons2/80/PNG/256/administrative_tools_15497.png" width="50" height="50"/>
 Languages and Tools
 </h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -29,7 +29,11 @@ Languages and Tools
 </div>
 <br>
 
-<div align="center">
+<div align="left">
+  <h2>
+    <img src="https://cdn-icons-png.flaticon.com/512/2343/2343694.png" width="45 height="45"/>
+    Contact me
+  </h2>
   <p>
     <a href="https://t.me/alexandr_malakhov">
       <img src="https://cdn.icon-icons.com/icons2/555/PNG/512/telegram_icon-icons.com_53603.png" title="Telegram" alt="Telegram" width="40" height="40"/>
@@ -45,6 +49,7 @@ Languages and Tools
     </a>
   </p> 
 </div>
+<br>
 
 <div align="center">
 <h2>

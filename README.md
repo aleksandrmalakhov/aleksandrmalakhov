@@ -1,5 +1,7 @@
 <div align="center">
-<h1><img src="https://github.com/thisisvillegas/BigCommerceDevsCommunityImages/blob/main/SpaceMan.png"/></h1>
+<h1>
+WELCOME!
+<img src="https://github.com/thisisvillegas/BigCommerceDevsCommunityImages/blob/main/SpaceMan.png"/></h1>
 </div>
 <br>
 

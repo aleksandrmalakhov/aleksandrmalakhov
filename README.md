@@ -30,6 +30,14 @@ Languages and Tools
 <br>
 
 <div align="center">
+  <p>
+    <a href="https://t.me/alexandr_malakhov">
+      <img src="https://cdn.icon-icons.com/icons2/555/PNG/512/telegram_icon-icons.com_53603.png" title="Telegram" alt="Telegram" width="40" height="40"/>
+    </a>
+  </p>  
+</div>
+
+<div align="center">
 <h2>
 <img src="https://cdn-icons-png.flaticon.com/512/7344/7344840.png" title="Arrow1" alt="Arrow1" width="40" height="40"/>
 Check Out My Repos

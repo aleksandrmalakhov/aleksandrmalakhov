@@ -58,5 +58,3 @@ Check Out My Repos
 <img src="https://cdn-icons-png.flaticon.com/512/7344/7344840.png" width="40" height="40"/>
 </h2>
 </div>
-<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aleksandrmalakhov&repo=java-multithreading)](https://github.com/aleksandrmalakhov/java-multithreading)

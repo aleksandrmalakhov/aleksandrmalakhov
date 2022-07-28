@@ -5,7 +5,7 @@
 
 <div align="left">
 <h2>
-<img src="https://cdn-icons-png.flaticon.com/512/2922/2922510.png" width="50" height="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2922/2922510.png" width="45" height="45"/>
 Let me introduce myself
 </h2>
 My name's Aleksandr. I'am a novice Java developer.
@@ -53,8 +53,10 @@ Languages and Tools
 
 <div align="center">
 <h2>
-<img src="https://cdn-icons-png.flaticon.com/512/7344/7344840.png" title="Arrow1" alt="Arrow1" width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/7344/7344840.png" width="40" height="40"/>
 Check Out My Repos
-<img src="https://cdn-icons-png.flaticon.com/512/7344/7344840.png" title="Arrow1" alt="Arrow1" width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/7344/7344840.png" width="40" height="40"/>
 </h2>
 </div>
+<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aleksandrmalakhov&repo=java-multithreading)](https://github.com/aleksandrmalakhov/java-multithreading)
